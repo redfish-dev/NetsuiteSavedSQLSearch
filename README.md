@@ -16,7 +16,7 @@ Select
 	BUILTIN.DF(T.status) as Status
 from customer C
 	JOIN Transaction T on (T.entity = C.id)
-{% endhighlight %}
+
 `
 
 ![Sample Query Definition](SampleQueryDef.jpg)
