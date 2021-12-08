@@ -40,6 +40,7 @@ fields can be hidden or have a record link in the SQL record definition
 
 Know limitations:
 1. ROWNUM is not working with N/query and some other commands like TRUNC. I will switch to the new rest service instead on N/query in the future.
+2. I removed portlet code for grid link. I was not happy with the JS library chose and prefer just NS lists for now until next release.
 
 Install Notes, should you attemp....
 1. This assumes you know how to istall the two custom records and custom list via XML objects.
@@ -48,8 +49,8 @@ Install Notes, should you attemp....
 
 
 
-Future verions will include:
-1. Bundle for Deployement
+Future versions will include:
+1. Bundle for Deployment
 2. Making code account agnostic
 3. Inline sub queries (Drill Down)
 4. Connection to a content engine to render PDF ot HTML
