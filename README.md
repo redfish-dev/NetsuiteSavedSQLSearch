@@ -1,4 +1,4 @@
-# NetsuiteSavedSQLSearch
+# Netsuite Saved SQLSearch
 
 
 This is an ALPHA release of a simple tool to see SuiteQL queries in a grid format with links to records in Netsuite.
