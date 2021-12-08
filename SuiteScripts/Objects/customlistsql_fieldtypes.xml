@@ -1,0 +1,34 @@
+<customlist scriptid="customlistsql_fieldtypes">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>sql Field Types</name>
+  <customvalues>
+    <customvalue scriptid="val_92216_6515607_631">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TEXT</value>
+    </customvalue>
+    <customvalue scriptid="val_92217_6515607_518">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>INTEGER</value>
+    </customvalue>
+    <customvalue scriptid="val_92218_6515607_294">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CURRENCY</value>
+    </customvalue>
+    <customvalue scriptid="val_95743_6515607_939">
+      <abbreviation>U</abbreviation>
+      <isinactive>F</isinactive>
+      <value>URL</value>
+    </customvalue>
+    <customvalue scriptid="val_95744_6515607_103">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>FLOAT</value>
+    </customvalue>
+  </customvalues>
+</customlist>
